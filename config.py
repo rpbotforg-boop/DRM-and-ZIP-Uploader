@@ -12,9 +12,9 @@ PASS_DB = int(os.environ.get("PASS_DB", "720"))
 
 #LOG = -1003523745178,
 
-# UPDATE_GRP = , # bot sat group
+# UPDATE_GRP = -1003523745178, # bot sat group
 
-# auth_chats = []
+# auth_chats = [777756062]
 
 #try:
     #ADMINS=[777756062]
